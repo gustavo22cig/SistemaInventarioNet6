@@ -1,0 +1,15 @@
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net6.0\SistemaInventario.Modelos.deps.json
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net6.0\SistemaInventario.Modelos.dll
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net6.0\SistemaInventario.Modelos.pdb
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net6.0\SistemaInventario.Utilidades.dll
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\bin\Debug\net6.0\SistemaInventario.Utilidades.pdb
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventario.Modelos.AssemblyInfoInputs.cache
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventario.Modelos.AssemblyInfo.cs
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventario.Modelos.csproj.CoreCompileInputs.cache
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventario.Modelos.csproj.CopyComplete
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventario.Modelos.dll
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net6.0\refint\SistemaInventario.Modelos.dll
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net6.0\SistemaInventario.Modelos.pdb
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net6.0\ref\SistemaInventario.Modelos.dll

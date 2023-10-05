@@ -1,0 +1,12 @@
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\bin\Debug\net6.0\SistemaInventario.Utilidades.deps.json
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\bin\Debug\net6.0\SistemaInventario.Utilidades.dll
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\bin\Debug\net6.0\SistemaInventario.Utilidades.pdb
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net6.0\SistemaInventario.Utilidades.csproj.AssemblyReference.cache
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net6.0\SistemaInventario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net6.0\SistemaInventario.Utilidades.AssemblyInfoInputs.cache
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net6.0\SistemaInventario.Utilidades.AssemblyInfo.cs
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net6.0\SistemaInventario.Utilidades.csproj.CoreCompileInputs.cache
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net6.0\SistemaInventario.Utilidades.dll
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net6.0\refint\SistemaInventario.Utilidades.dll
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net6.0\SistemaInventario.Utilidades.pdb
+E:\CURSOS\NET 6\SistemaInventario\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net6.0\ref\SistemaInventario.Utilidades.dll
